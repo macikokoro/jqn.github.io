@@ -272,7 +272,7 @@ footer p {
 }
 
 .floating-label-form-group-with-focus label {
-  color: red;
+  color: #a3be10;
 }
 
 form .row:first-child .floating-label-form-group {
